@@ -82,3 +82,4 @@ As you start to EDIT on the Visual studio code window refresh the browser to see
 # Create PULL request:
 1. Go to "https://github.com/<username>/tutorials/pulls" to create a New Pull request.
 2. Click on the Green "New Pull Request" button to create a new request between your master branch to Virtualan Master branch.
+3. Go over the changes and then click "Create Pull Request".
